@@ -1,0 +1,10 @@
+D:\GitHubRepository\DesignAWorld\DevLanguage\CSharp\Learn\LearnDotNetDLL\DirectoryAndFIle\bin\Debug\DirectoryAndFIle.exe
+D:\GitHubRepository\DesignAWorld\DevLanguage\CSharp\Learn\LearnDotNetDLL\DirectoryAndFIle\bin\Debug\DirectoryAndFIle.pdb
+D:\GitHubRepository\DesignAWorld\DevLanguage\CSharp\Learn\LearnDotNetDLL\DirectoryAndFIle\obj\Debug\DirectoryAndFIle.csproj.AssemblyReference.cache
+D:\GitHubRepository\DesignAWorld\DevLanguage\CSharp\Learn\LearnDotNetDLL\DirectoryAndFIle\obj\Debug\DirectoryAndFIle.csproj.SuggestedBindingRedirects.cache
+D:\GitHubRepository\DesignAWorld\DevLanguage\CSharp\Learn\LearnDotNetDLL\DirectoryAndFIle\obj\Debug\DirectoryAndFIle.csproj.CoreCompileInputs.cache
+D:\GitHubRepository\DesignAWorld\DevLanguage\CSharp\Learn\LearnDotNetDLL\DirectoryAndFIle\obj\Debug\DirectoryAndFIle.exe
+D:\GitHubRepository\DesignAWorld\DevLanguage\CSharp\Learn\LearnDotNetDLL\DirectoryAndFIle\obj\Debug\DirectoryAndFIle.pdb
+D:\GitHubRepository\DesignAWorld\DevLanguage\CSharp\Learn\LearnDotNetDLL\DirectoryAndFIle\bin\Debug\Util.exe
+D:\GitHubRepository\DesignAWorld\DevLanguage\CSharp\Learn\LearnDotNetDLL\DirectoryAndFIle\bin\Debug\Util.pdb
+D:\GitHubRepository\DesignAWorld\DevLanguage\CSharp\Learn\LearnDotNetDLL\DirectoryAndFIle\obj\Debug\DirectoryAndFIle.csproj.CopyComplete

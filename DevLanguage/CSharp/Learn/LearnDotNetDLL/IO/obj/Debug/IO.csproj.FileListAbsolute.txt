@@ -1,0 +1,7 @@
+D:\GitHubRepository\DesignAWorld\DevLanguage\CSharp\Learn\LearnDotNetDLL\IO\bin\Debug\IO.exe
+D:\GitHubRepository\DesignAWorld\DevLanguage\CSharp\Learn\LearnDotNetDLL\IO\bin\Debug\IO.pdb
+D:\GitHubRepository\DesignAWorld\DevLanguage\CSharp\Learn\LearnDotNetDLL\IO\obj\Debug\IO.csproj.AssemblyReference.cache
+D:\GitHubRepository\DesignAWorld\DevLanguage\CSharp\Learn\LearnDotNetDLL\IO\obj\Debug\IO.csproj.SuggestedBindingRedirects.cache
+D:\GitHubRepository\DesignAWorld\DevLanguage\CSharp\Learn\LearnDotNetDLL\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+D:\GitHubRepository\DesignAWorld\DevLanguage\CSharp\Learn\LearnDotNetDLL\IO\obj\Debug\IO.exe
+D:\GitHubRepository\DesignAWorld\DevLanguage\CSharp\Learn\LearnDotNetDLL\IO\obj\Debug\IO.pdb
